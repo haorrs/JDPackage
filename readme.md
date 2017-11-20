@@ -1,6 +1,6 @@
-﻿﻿﻿京东全能工具包 JDPackage V2.3
+﻿﻿﻿京东全能工具包 JDPackage V2.3.X
 ===================
-作者已停止更新！部分功能可能不可用，欢迎修复问题commit发pr给我，我觉得可以就合并进来！
+forked from master
 
 ![python](https://img.shields.io/badge/language-python-orange.svg)
 
@@ -69,7 +69,6 @@
 
 ----------
 
-作者QQ：1317171753，学习群：108934299
 ---------------
 
 
